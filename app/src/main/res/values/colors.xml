@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="app_bg">#fff4f4f4</color>
+    <color name="app_color_lightgrey">#ffe5e5e5</color>
+    <color name="app_divider">#ffeaeaea</color>
+    <color name="app_edittext">#ff2e2e2e</color>
+    <color name="app_fg">#ffffffff</color>
+    <color name="app_gray">#ffbcbcbc</color>
+    <color name="app_navigation">#fff7f7f7</color>
+    <color name="app_text_auxiliary">#ffa1a1a1</color>
+    <color name="app_text_body">#ff161616</color>
+    <color name="app_text_light">#ffff3938</color>
+    <color name="app_text_tip">#ffbbbbbb</color>
+    <color name="app_text_white">#ffffffff</color>
+    <color name="app_title">#ff343434</color>
+    <color name="background_color">#fff0f0f0</color>
+    <color name="base_main_bg_color">#ffe7e6e6</color>
+    <color name="bg_common">#ffe2e2e2</color>
+    <color name="biz_plugin_weather_text1">#ff2f2f2f</color>
+    <color name="black">#ff000000</color>
+    <color name="black_1">#ff7e8b98</color>
+    <color name="blue">#ff0cadf6</color>
+    <color name="camera_dialog_textColor">#ff137ff0</color>
+    <color name="city_divider_color">#ffcecece</color>
+    <color name="city_hot_color">#ffcecece</color>
+    <color name="city_title">#fff3f3f3</color>
+    <color name="color_a">#ffe8e8e8</color>
+    <color name="color_b">#ff646464</color>
+    <color name="color_c">#ff969696</color>
+    <color name="color_cb">#ffcbcbcb</color>
+    <color name="color_d">#ffc8c8c8</color>
+    <color name="color_e">#ffffffff</color>
+    <color name="color_f">#fff08c00</color>
+    <color name="color_g">#ffff6c00</color>
+    <color name="color_grey">#ffa1a1a1</color>
+    <color name="color_grey_pressed">#30a1a1a1</color>
+    <color name="color_h">#ffff6c00</color>
+    <color name="color_red">#ffff0000</color>
+    <color name="color_red_disable">#ffff7574</color>
+    <color name="color_red_pressed">#30ff0000</color>
+    <color name="color_white">#ffffffff</color>
+    <color name="date_color">#fff0aa80</color>
+    <color name="default_circle_indicator_fill_color">#ffffffff</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+    <color name="default_underline_indicator_selected_color">#ff33b5e5</color>
+    <color name="gray_2">#ffdcdcdc</color>
+    <color name="green_2">#ff9fcb06</color>
+    <color name="grey">#ffeaeaea</color>
+    <color name="grey_brand_bg">#fff0f0f0</color>
+    <color name="grey_text_9b">#ff9b9b9b</color>
+    <color name="home_blue">#ff03a9f4</color>
+    <color name="home_blue_c">#ffbbbbbb</color>
+    <color name="home_red">#ffff5555</color>
+    <color name="home_red_c">#ffbbbbbb</color>
+    <color name="home_text_grey">#ff858585</color>
+    <color name="home_text_yello">#ffff9900</color>
+    <color name="home_yellow">#ffff9800</color>
+    <color name="home_yellow_c">#ffbbbbbb</color>
+    <color name="hot3">#ffff9600</color>
+    <color name="image_view_btn_pressed_bgColor">#30000000</color>
+    <color name="item_bg">#ffe7e6e6</color>
+    <color name="item_pressed">#ffffe4d2</color>
+    <color name="list_view_bg_color">#00000000</color>
+    <color name="listview_driver_color">#ffd8d8d8</color>
+    <color name="location_city_hint">#ffff3c00</color>
+    <color name="login_unable_bg">#ffcdced0</color>
+    <color name="look_for_routes_line_color">#ffbdbdbd</color>
+    <color name="look_for_routes_textColor1">#ff464545</color>
+    <color name="more_info_red">#ffff3938</color>
+    <color name="near_by_map_more_textColor">#fff05c1f</color>
+    <color name="near_by_map_shop_distance_textColor">#ffa3a3a3</color>
+    <color name="near_by_map_shop_title_textColor">#ff353535</color>
+    <color name="near_by_select_address_tv_bgColor">#fff6f6f6</color>
+    <color name="near_by_textColor1">#ff737373</color>
+    <color name="near_by_title_bar_bg_color">#ffff621f</color>
+    <color name="orange">#ffff905b</color>
+    <color name="orange_1">#fff05400</color>
+    <color name="orange_light">#ffff611d</color>
+    <color name="orange_tips_background">#fffff6b9</color>
+    <color name="orange_tips_foreground">#ffff7800</color>
+    <color name="pop_text_color">#ff757575</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="pressed_color">#30000000</color>
+    <color name="progress_fg_bottom">#fff0a000</color>
+    <color name="progress_fg_top">#ffffc800</color>
+    <color name="province_line_border">#ffc7c7c7</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_rose">#ffff5555</color>
+    <color name="result_view">#b0000000</color>
+    <color name="search_background_color">#ffe2e2e2</color>
+    <color name="search_font_color">#ff4b4b4b</color>
+    <color name="search_searchbutton">#fffc7951</color>
+    <color name="search_titlebar_color">#ffff621d</color>
+    <color name="search_vertical_line">#ffcccccc</color>
+    <color name="select_point_address_content_textColor">#ff959491</color>
+    <color name="select_point_address_label_textColor">#ff424242</color>
+    <color name="select_point_tab_normal_textColor">#ffa8a6a5</color>
+    <color name="select_point_tab_selected_textColor">#ff363536</color>
+    <color name="short_description_color">#ff333333</color>
+    <color name="splash_notification_bg">#77ffffff</color>
+    <color name="tab_text_color">#ffa24b2f</color>
+    <color name="tab_text_default">#ffbbbbbb</color>
+    <color name="tab_text_wz">#ff000000</color>
+    <color name="tab_title_default">#ff595959</color>
+    <color name="tab_title_selected">#ffff4b14</color>
+    <color name="text_bule">#ff68c1f7</color>
+    <color name="text_content_black">#ff3c3c3c</color>
+    <color name="text_light_gray">#ff999999</color>
+    <color name="title_bg">#ffd7d7d7</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_bg">#60000000</color>
+    <color name="transparent_deep">#10000000</color>
+    <color name="transparent_deep2">#80000000</color>
+    <color name="transparent_grey">#30000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <item name="vpi__bright_foreground_holo_dark" type="color">@color/vpi__background_holo_light
+    </item>
+    <item name="vpi__bright_foreground_holo_light" type="color">@color/vpi__background_holo_dark
+    </item>
+    <item name="vpi__bright_foreground_inverse_holo_dark" type="color">
+        @color/vpi__bright_foreground_holo_light
+    </item>
+    <item name="vpi__bright_foreground_inverse_holo_light" type="color">
+        @color/vpi__bright_foreground_holo_dark
+    </item>
+    <color name="white">#ffffffff</color>
+    <color name="white_1">#fff4f4f4</color>
+    <color name="yello">#fffff68f</color>
+
+    <!-- app-->
+    <color name="select_city_item">#F3F3F3</color>
+    <color name="title_bar_bg">#F7F7F7</color>
+    <color name="tab_bg">#FAFAFA</color>
+    <color name="home_bg">#EFEFEF</color>
+    <color name="banner_text_color">#858585</color>
+    <color name="car_type_color">#FF3938</color>
+    <color name="car_type_color_50">#7FFF3938</color>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:id="@+id/ll_layout">
+            <TextView
+                android:textColor="#000000"
+                android:id="@+id/tv_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="下拉刷新"/>
+            <TextView
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_lasttime"/>
+        </LinearLayout>
+        <ImageView
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+            android:id="@+id/img_arrow"
+            android:scaleType="centerCrop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/ll_layout"
+            android:src="@mipmap/pull_to_refresh_arrow"/>
+        <ProgressBar
+            android:layout_toLeftOf="@id/ll_layout"
+            android:padding="5dp"
+            android:id="@+id/progress"
+            style="@style/customProgressBar"
+            android:visibility="gone" />
+    </RelativeLayout>
+</LinearLayout>
